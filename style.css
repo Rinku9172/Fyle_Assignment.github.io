@@ -19,8 +19,8 @@
 }
 
 .firstImg {
-  width: auto;
-  height: auto;
+  width: 420px;
+  height: 500px;
 }
 .fade-in {
   opacity: 0;
@@ -44,6 +44,7 @@
   background: #ff3147 0% 0% no-repeat padding-box;
   border-radius: 2px;
   opacity: 1;
+  color: white;
 }
 .modal-title {
   color: #2d3142;
